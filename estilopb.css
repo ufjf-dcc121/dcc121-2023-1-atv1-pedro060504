@@ -1,0 +1,18 @@
+header, footer {
+    color:blue;
+    padding: 3em 1.5em;
+    background-color:rgb(red, green, blue);
+    background-color: rgb(21, 168, 119);
+}
+main{
+    min-height: 264px;
+}
+nav li{
+
+    display:inline;
+    border: solid 2px;
+    padding: 1em;
+}
+header a{
+    color: bisque;
+}
